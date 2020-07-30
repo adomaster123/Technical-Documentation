@@ -63,5 +63,6 @@ a:hover {
   #navbar header {
   text-align: center;
   border-bottom: 1px solid black;
+  justify-content: center;
 }
 }
