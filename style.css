@@ -7,9 +7,7 @@ body{
 header {
   font-weight: bold;
   font-size: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 #navbar {
   width: 100%;
@@ -34,6 +32,9 @@ header {
 #navbar header {
   text-align: center;
   height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 a {
   text-decoration: none;
@@ -63,6 +64,5 @@ a:hover {
   #navbar header {
   text-align: center;
   border-bottom: 1px solid black;
-  justify-content: center;
 }
 }
