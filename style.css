@@ -9,8 +9,6 @@ header {
   font-size: 30px;
   display: flex;
   align-items: center;
-}
-#navbar header {
   justify-content: center;
 }
 #navbar {
